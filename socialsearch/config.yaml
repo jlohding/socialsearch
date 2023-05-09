@@ -1,0 +1,9 @@
+influencers:
+  - kingjames
+  - champagnepapi
+
+models:
+  model_path: ./models/sponsor_clf_01.joblib
+
+datasets:
+  data_path: ./datasets/df_01.pkl
